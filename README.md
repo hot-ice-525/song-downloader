@@ -1,4 +1,4 @@
-BACKSTORY
+**BACKSTORY**
 
 Call me old school but when it comes to listening songs; apart from listening them online on Spotify, I love
 to keep them downloaded on my device, so a bad network won't stop me from listening my favourite songs. So occasionally
@@ -7,17 +7,17 @@ simple redirects to other websites or even sometimes Youtube videos! I guess web
 they just want more clicks.Quite an unethical way you can say, but whatever, I was fed up with this and wanted a solution
 for it. That's why I decided to pick up this project.
 
-WHAT DOES IT DO?
+**WHAT DOES IT DO?**
 
 It is a simple extension that provides you with the acutal download link, so you can peacefully download your favourite
 song without going through any hassle of fake redirects.
 
-HOW DOES IT WORK?
+**HOW DOES IT WORK?**
 
 It simply scans all the available audio elements that have an href attribute ending in ".mp3". In most of the cases, these
 are the actual download links that you were originally looking for!
 
-DISCLAIMER
+**DISCLAIMER**
 
 This is a small project that is intended for my personal use only. I am commited to using it responsibly and ethically.
 It is publicly available solely to showcase my work. However, users are allowed to use it on trial basis only; extensive
